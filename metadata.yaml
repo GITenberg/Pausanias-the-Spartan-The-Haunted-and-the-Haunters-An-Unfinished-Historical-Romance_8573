@@ -1,0 +1,43 @@
+_repo: Pausanias-the-Spartan-The-Haunted-and-the-Haunters-An-Unfinished-Historical-Romance_8573
+contributor:
+  creator:
+    editor:
+      agent_name: Lytton, Edward Robert Bulwer Lytton, Earl of
+      aliases:
+      - Bulwer Lytton, Edward Robert, Earl of Lytton
+      - Meredith, Owen
+      - Meridith, Owen
+      birthdate: 1831
+      deathdate: 1891
+      gutenberg_agent_id: '38241'
+      url: http://www.gutenberg.org/2009/agents/38241
+      wikipedia: http://en.wikipedia.org/wiki/Robert_Bulwer-Lytton%2C_1st_Earl_of_Lytton
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pausanias, of Sparta, fl. 479-470 B.C. -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Horror tales'
+tableOfContents: Pausanias, the Spartan -- The haunted and the haunters; or, the house
+  and the brain.
+title: "Pausanias, the Spartan; The Haunted and the Haunters\r\nAn Unfinished Historical\
+  \ Romance"
+url: http://www.gutenberg.org/ebooks/8573
