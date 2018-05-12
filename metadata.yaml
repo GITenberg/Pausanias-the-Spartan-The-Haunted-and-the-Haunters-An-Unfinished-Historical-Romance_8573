@@ -1,4 +1,5 @@
 _repo: Pausanias-the-Spartan-The-Haunted-and-the-Haunters-An-Unfinished-Historical-Romance_8573
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -12,6 +13,9 @@ contributor:
       gutenberg_agent_id: '38241'
       url: http://www.gutenberg.org/2009/agents/38241
       wikipedia: http://en.wikipedia.org/wiki/Robert_Bulwer-Lytton%2C_1st_Earl_of_Lytton
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -24,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/761
     wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8573#Pausanias-the-Spartan-The-Haunted-and-the-Haunters-An-Unfinished-Historical-Romance
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
